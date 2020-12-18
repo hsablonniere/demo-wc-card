@@ -1,5 +1,7 @@
 # <demo-wc-card\> detail docs foobar
 
+foobar `foo=${this.bar}`.
+
 Here you will find more info about the `demo-wc-card`.
 
 ```js script

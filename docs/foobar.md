@@ -1,4 +1,4 @@
-# <demo-wc-card\> detail docs foobar
+# <demo-wc-card\> detail docs barfoo
 
 foobar `foo=${this.bar}`.
 

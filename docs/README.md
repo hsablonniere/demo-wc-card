@@ -1,4 +1,4 @@
-# <demo-wc-card\> detail docs
+# <demo-wc-card\> detail docs foo
 
 Here you will find more info about the `demo-wc-card`.
 
